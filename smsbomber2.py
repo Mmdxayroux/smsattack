@@ -5,7 +5,7 @@ green='\033[32m'
 blue='\033[36m'
 pink='\033[35m'
 rang='\033[34m'
-link = "https://app.snapp.taxi/api/api-passenger-oauth/v2/otp"
+link = "https://messengerg2c4.iranlms.ir"
 os.system("for i in {1..12}; do for j in $(seq 1 $i); do echo -ne $iÃ—$j=$((i*j))\\t;done; echo;done")
 os.system("clear")
 print(f"{red} ")
